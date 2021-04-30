@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mobile</string>
+    <string name="short_password">password is too short</string>
+    <string name="different_passwords">passwords are not the same</string>
+</resources>

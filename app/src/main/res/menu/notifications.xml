@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.mobile.MainActivity">
+    <item
+        android:id="@+id/notifications"
+        app:showAsAction="never"
+        android:iconTint="@color/white"
+        android:menuCategory="secondary"
+        android:icon="@drawable/ic_baseline_bell"
+        android:title="notifications" />
+    <item
+        android:title="logout"
+        android:id="@+id/logout"
+        app:showAsAction="never" />
+</menu>
